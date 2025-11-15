@@ -12,11 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<picture>
+
+<!-- <picture>
  <source media="(prefers-color-scheme: dark)" srcset="贴图-防失效/benti-convert.png">
  <source media="(prefers-color-scheme: light)" srcset="贴图-防失效/benti.png">
  <img alt="受支持头像" src="贴图-防失效/benti.png">
-</picture>
+</picture> -->
 
 
 ## About me
